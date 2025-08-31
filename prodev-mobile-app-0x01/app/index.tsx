@@ -28,7 +28,6 @@ const styles = StyleSheet.create({
     color: "#f44336",
     marginBottom: 5,
     fontWeight: "700",
-    fontVariant: ["small-caps"],
   },
   mediumText: {
     fontSize: 20,
