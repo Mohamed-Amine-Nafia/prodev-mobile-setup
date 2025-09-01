@@ -14,17 +14,14 @@ export default function Index() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
     backgroundColor: "#90caf9",
-    justifyContent: "center",
-    alignItems: "center",
-    padding: 20,
   },
   largeText: {
     fontSize: 30,
     color: "#f44336",
     marginBottom: 5,
     fontWeight: "700",
+    fontVariant: ["small-caps"],
   },
   mediumText: {
     fontSize: 20,
